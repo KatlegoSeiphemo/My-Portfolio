@@ -39,4 +39,4 @@ Check out the live version of my portfolio: [Katlego Seiphemo Portfolio](https:/
 Feel free to reach out for any opportunities or feedback!
 
 Email: [seiphemokatlego@gmail.com]  
-LinkedIn: [https://www.linkedin.com/in/katlego-seiphemo-819779328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/katlego-seiphemo-819779328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
