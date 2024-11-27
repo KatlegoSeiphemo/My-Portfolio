@@ -31,7 +31,7 @@ I am Katlego Seiphemo, a passionate developer from South Africa 🇿🇦 with a 
 
 ## 🌐 **Live Demo**  
 
-Check out the live version of my portfolio: [Katlego Seiphemo Portfolio](https://example.com)  
+Check out the live version of my portfolio: [Katlego Seiphemo Portfolio](https://katlegoseiphemo.github.io/My-Portofolio/)  
 
 ---
 
