@@ -29,6 +29,25 @@ I am Katlego Seiphemo, a passionate developer from South Africa 🇿🇦 with a 
 
 ---
 
+## 🏆 **Certifications**  
+### 📜 **SheCodes Coding Workshops**  
+1. ![SheCodes Basics Certificate](https://s3.amazonaws.com/shecodesio-production/students/certificates/000/225/873/original/225873.png?1731967397)  
+2. ![SheCodes Advanced Certificate](https://s3.amazonaws.com/shecodesio-production/students/certificates/000/213/027/original/213027.png?1729619619)  
+
+
+---
+
+### 📜 **Coursera Certificates**  
+1. ![Google Data Analytics Professional Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/1.png)  
+2. ![Microsoft Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/2.png)  
+3. ![Ethics, Technology and Engineering Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/3.png)  
+4. ![Emotional and Social Intelligence Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/4.png)  
+5. ![Agile Development and Scrum Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/5.png)  
+6. ![Technical Support Fundamental Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/6.png)  
+7. ![Professional Productivity Certificate](https://raw.githubusercontent.com/KatlegoSeiphemo/KatlegoSeiphemo/main/7.png)   
+
+---
+
 ## 🌐 **Live Demo**  
 
 Check out the live version of my portfolio: [Katlego Seiphemo Portfolio](https://katlegoseiphemo.github.io/My-Portfolio/)  
