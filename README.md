@@ -22,8 +22,8 @@ I am Katlego Seiphemo, a passionate developer from South Africa 🇿🇦 with a 
 
 ## 🔧 **Technologies Used**  
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python  
+- **Frontend**: HTML, CSS, JavaScript, REACT 
+- **Backend**: Python, java  
 - **Version Control**: Git, GitHub  
 - **Hosting**: [Your Hosting Platform] (e.g., GitHub Pages, Netlify, Vercel)  
 
